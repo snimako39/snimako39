@@ -87,4 +87,4 @@ To leverage my expertise in cybersecurity and Linux system administration to des
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
+- Qualys Vulnerability Scanning
