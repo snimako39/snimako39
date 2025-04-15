@@ -88,3 +88,44 @@ To leverage my expertise in cybersecurity and Linux system administration to des
 ## Projects
 - Detection Lab
 - Qualys Vulnerability Scanning
+
+
+  
+## WORK EXPERIENCE
+Datacenter Debug Technician                                                               
+From March 2025 till date.
+With Jabil by  Lorien.
+•	Performing detailed diagnostics and troubleshooting of server hardware components using linux command line tools
+•	Address issues related to CPUs, memory, storage devices and other critical hardware elements.
+•	Work collaboratively to achieve Diagnostic departments process yield goals.
+
+
+Cyber Security Analyst (Inten).                                                              June 2024 to November 2024                                                          
+Charter Communication- Lexington, KY 
+•	Assist in patch management and risk prioritization
+•	Document findings and recommend security improvements
+•	Document incident reports and remediation strategies.
+•	Responsible in conducting technical research to contribute to cloud security direction and planning
+•	Monitor security alerts and analyze potential threats.
+
+
+Residential Connectivity Specialist                                                                                April 2023 to April 2024 
+•	Experience in the use of Turf management tool
+•	 Meet or exceed monthly, quarterly, and annual sales targets and quotas.
+•	 Address customer questions, concerns, and objections professionally and effectively.
+•	Present and demonstrate products or services to prospective clients, highlighting their features and benefits.
+•	Build and maintain strong relationships with new and existing customers to drive repeat 
+        Business   
+       • Address customer questions, concerns, and objections professionally and effectively
+
+IT Administrator Help Desk
+Rheinmetall- Weeze, NRW, Bonn Germany                                                 January 2021 to December 2022
+•	In charge of Installing, configuring and maintaining workstation computers, software applications and peripherals
+•	Responsible in Managing user accounts and access rights in Active Directory and other IT systems
+•	Providing support in setting up and configuring network components and connections
+•	Responsible in diagnosing and troubleshooting hardware and software problems, both locally and remotely
+•	Receiving, analyzing and processing requests and fault reports via various channels
+
+
+## Other Activities
+April 2019                                 IT Volunteer         United Nations SDG                      Bonn Germany
